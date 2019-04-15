@@ -1,0 +1,23 @@
+.first_ex, .second, #container{
+	border: 1px solid green;
+	padding: 10px 15px;
+	height: 30px;
+	width: 500px;
+}
+
+.verde{
+	background-color: red;
+}
+
+.blue{
+	background-color: blue;
+}
+.yellow{
+	background-color: yellow;
+}
+.violet{
+	background-color: violet;
+}
+.circle{
+	background-color: #a6a6a6;
+}
